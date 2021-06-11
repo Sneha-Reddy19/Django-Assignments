@@ -1,1 +1,1 @@
-# Django-Assignments
+# Django 10AM Assignments. 
